@@ -11,3 +11,11 @@ System.out.printlin(Number 2 is"+num2);
 System.out.printlin(Addition of 2 numbers=:'+(num1+num2));
 }
 }
+class Demo{
+public static void main(String args[])
+{
+Add obj1=new Add();
+obj.read(5,10);
+obj.show();
+}
+}
