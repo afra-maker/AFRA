@@ -1,0 +1,13 @@
+class Add{
+int num1,num2,num3;
+void read(int n1,int n2)
+{
+num=n1;
+num=n2;
+}
+System.out.println("the two numbers are");
+System.out.printlin(Number 1 is"+num1);
+System.out.printlin(Number 2 is"+num2);
+System.out.printlin(Addition of 2 numbers=:'+(num1+num2));
+}
+}
